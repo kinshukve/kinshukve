@@ -4,6 +4,14 @@ Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Scienc
 
 ---
 
+<div align="center">
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;AI%2FML+Enthusiast;Web+Developer;Open-Source+Contributor)
+
+</div>
+
+---
+
 ## 🌟 About Me
 
 - 🎓 **Education:** 2nd-year B.Tech in CSE (AI/ML)
@@ -43,11 +51,6 @@ Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Scienc
 
 ## 🎉 Fun Animations
 
-<div align="center">
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;AI%2FML+Enthusiast;Web+Developer;Open-Source+Contributor)
-
-</div>
 
 ## 🤝 Connect with Me
 
