@@ -1,4 +1,10 @@
-# Hi there! 👋 I'm Kinshuk Verma
+<div align="center">
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=4000&color=8A2BE2&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Kinshuk+Verma&stroke=FFFFFF&stroke-width=3)
+</div>
+
+
+---
 
 Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Science and Engineering (CSE)** student specializing in **Artificial Intelligence and Machine Learning (AIML)**. I love building responsive and interactive web applications, diving into AI/ML, and contributing to open-source projects.
 
