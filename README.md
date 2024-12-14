@@ -42,20 +42,24 @@ Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Scienc
 
 ---
 
----
-
+<div align="center">
+  
 ## 📈 GitHub Stats
 
 ![Kinshuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+</div>
 
 ---
+
+<div align="center">
+  
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
----
+</div>
 
-## 🎉 Fun Animations
+---
 
 
 ## 🤝 Connect with Me
