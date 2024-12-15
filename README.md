@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Scienc
 ## 🤝 Connect with Me
 
 - **Email:** [ver.kinshuk111@gmail.com](mailto:ver.kinshuk111@gmail.com)
-- **X:** [Kinshukverma6](https://x.com/kinshukverma6?t=CPVPrkPW8iNNDAgpS_AzDg&s=09)
+- **X:** [Kinshukve](https://x.com/kinshukve)
 - **LinkedIn:** [Kinshuk Verma](https://www.linkedin.com/in/kinshuk-verma-54311931a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
