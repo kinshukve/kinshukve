@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Scienc
 
 ## 🌟 About Me
 
-- 🎓 **Education:** 2nd-year B.Tech in CSE (AI/ML)
+- 🎓 **Education:** 3rd-year B.Tech in CSE (AI/ML)
 - 💻 **Interests:** AI/ML, Web Development, Responsive Design
 - 🎯 **Goal:** To enhance user experience by creating attractive and optimized applications.
 - 🌱 **Currently Learning:** Advanced AI/ML frameworks and responsive design techniques.
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am currently a **2nd-year B.Tech Computer Scienc
   
 ## 📈 GitHub Stats
 
-![Kinshuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kinshuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinshukve&show_icons=true&theme=radical)
 </div>
 
 ---
